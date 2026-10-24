@@ -2,7 +2,6 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Pratibha!
 
 ```text
 ╔══════════════════════════════════════╗
