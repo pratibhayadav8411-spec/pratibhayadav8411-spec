@@ -127,6 +127,5 @@
 
 ### ✨ Consistency beats perfection.
 
-*Thanks for visiting my corner of GitHub!* 💚
 
 </div>
