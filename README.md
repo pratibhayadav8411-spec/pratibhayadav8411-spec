@@ -11,7 +11,7 @@
 ╚══════════════════════════════════════╝
 ```
 
-    B.Tech CSE | Aspiring Software Engineer
+  B.Tech CSE | Aspiring Software Engineer
 
 *Learning, building, and debugging one step at a time.* 
 
