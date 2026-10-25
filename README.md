@@ -11,9 +11,9 @@
 ╚══════════════════════════════════════╝
 ```
 
-### 💻 B.Tech CSE | Aspiring Software Engineer
+    B.Tech CSE | Aspiring Software Engineer
 
-*Learning, building, and debugging one step at a time.* 💚
+*Learning, building, and debugging one step at a time.* 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pratibhayadav8411-spec&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
 
@@ -23,11 +23,11 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech Computer Science Engineering student.
-- ☕ Learning Java and Data Structures & Algorithms.
-- 🌐 Exploring web development and software engineering.
-- 🧩 Interested in problem-solving and building useful projects.
-- 🌱 Focused on learning consistently and improving my skills.
+-    B.Tech Computer Science Engineering student.
+-    Learning Java and Data Structures & Algorithms.
+-    Exploring web development and software engineering.
+-    Interested in problem-solving and building useful projects.
+-    Focused on learning consistently and improving my skills.
 
 ---
 
@@ -89,10 +89,10 @@
 
 ## 🚀 What I'm Working On
 
-- 📚 Practicing DSA using Java.
-- 💻 Building web development projects.
-- 🔍 Strengthening computer science fundamentals.
-- 🎯 Preparing for software development internships.
+-  Practicing DSA using Java.
+-  Building web development projects.
+-  Strengthening computer science fundamentals.
+-  Preparing for software development internships.
 
 ---
 
