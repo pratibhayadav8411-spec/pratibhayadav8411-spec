@@ -21,7 +21,7 @@
 
 ---
 
-## 👩‍💻 About Me
+##  this is Me
 
 -    B.Tech Computer Science Engineering student.
 -    Learning Java and Data Structures & Algorithms.
@@ -31,7 +31,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+##                                                   📊 GitHub Statistics
 
 <div align="center">
 
@@ -87,7 +87,7 @@
 
 ---
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 
 -  Practicing DSA using Java.
 -  Building web development projects.
@@ -96,7 +96,7 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
