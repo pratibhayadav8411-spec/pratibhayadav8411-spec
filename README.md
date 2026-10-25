@@ -22,12 +22,12 @@
 ---
 
 ##  this is Me
-
--    B.Tech Computer Science Engineering student.
--    Learning Java and Data Structures & Algorithms.
--    Exploring web development and software engineering.
--    Interested in problem-solving and building useful projects.
--    Focused on learning consistently and improving my skills.
+Name       :  Pratibha 
+From       :  Greater Noida, India
+Education  :  Pursuing B.Tech in Computer Science and Engineering
+                3rd Year (Pre-Final Year!)
+              
+Interests  :  Dev stuff & playing with legos - both involve building cool things!
 
 ---
 
@@ -45,7 +45,7 @@
 
 ---
 
-## 🧩 My LeetCode Journey
+##  My LeetCode Journey
 
 <div align="center">
 
