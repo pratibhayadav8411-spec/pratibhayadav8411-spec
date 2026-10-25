@@ -23,13 +23,15 @@
 
 ##  this is Me
 Name       :  Pratibha 
+
 From       :  Greater Noida, India
+
 Education  :  Pursuing B.Tech in Computer Science and Engineering
                 3rd Year (Pre-Final Year!)
               
 Interests  :  Dev stuff & playing with legos - both involve building cool things!
 
----
+----
 
 ##                                                   📊 GitHub Statistics
 
